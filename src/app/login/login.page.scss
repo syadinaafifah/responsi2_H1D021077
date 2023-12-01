@@ -1,0 +1,24 @@
+ion-header {
+    ion-toolbar {
+      --background: #3880ff; /* Warna header */
+      --color: #fff; /* Warna teks pada header */
+    }
+  }
+  
+  ion-content {
+    --ion-background-color: #141212; /* Warna latar belakang konten */
+  }
+  
+  ion-button {
+    --ion-text-color: #fff; /* Warna teks pada tombol */
+    --background: rgb(76, 168, 175); /* Warna tombol */
+    --border-radius: 8px; /* Sudut bulat tombol */
+    --box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Bayangan tombol */
+  }
+  
+  ion-item {
+    --ion-background-color: #fff; /* Warna latar belakang item */
+    --ion-border-color: #ccc; /* Warna border item */
+    --ion-border-radius: 8px; /* Sudut bulat item */
+  }
+  
