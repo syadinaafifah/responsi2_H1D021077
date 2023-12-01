@@ -1,0 +1,7 @@
+{
+  "name": "responsidua",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
